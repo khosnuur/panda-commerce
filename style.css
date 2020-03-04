@@ -49,3 +49,10 @@
 .catagories img{
     width: 150px;
 }
+
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(44, 39, 39);
+    border-radius: 10px;
+}
