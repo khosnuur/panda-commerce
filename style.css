@@ -3,7 +3,7 @@
 }
 
 .bg-color{
-    background-color: #fceae8;
+    background-color: #f7e3e1;
     border-radius: 10px;
 }
 
@@ -55,4 +55,17 @@
     border: none;
     box-shadow: 5px 5px 10px rgb(44, 39, 39);
     border-radius: 10px;
+}
+#subscribe{
+    height: 250px;
+}
+#subscribe h6{
+    color: rgb(156, 148, 148);
+}
+
+input{
+    border: none;
+}
+footer{
+    text-align: center;
 }
