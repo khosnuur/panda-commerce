@@ -23,3 +23,29 @@
     cursor: pointer;
 
 }
+
+.img1, .img2, .img3{
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+.img1{
+    background-color: yellow;
+    background-image: linear-gradient(100deg,yellow,rgb(223, 73, 14));
+
+}
+.img2{
+    background-color: purple;
+    background-image: linear-gradient(rgb(185, 105, 185),magenta);
+}
+.img3{
+    background-color: blue;
+    background-image: linear-gradient(rgb(71, 71, 173), blue);
+}
+.catagories h1{
+    color: cornsilk;
+
+}
+.catagories img{
+    width: 150px;
+}
